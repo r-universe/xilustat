@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Bayenet"]
+	path = Bayenet
+	url = https://github.com/cran/Bayenet
+	shallow = true
+	registered = true
 [submodule "marble"]
 	path = marble
 	url = https://github.com/xilustat/marble
