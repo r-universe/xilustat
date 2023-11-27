@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "Bayenet"]
 	path = Bayenet
-	url = https://github.com/cran/Bayenet
+	url = https://github.com/xilustat/bayenet
 [submodule "marble"]
 	path = marble
 	url = https://github.com/xilustat/marble
